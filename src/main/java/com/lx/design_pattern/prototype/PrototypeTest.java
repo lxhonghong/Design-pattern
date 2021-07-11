@@ -3,7 +3,7 @@ package com.lx.design_pattern.prototype;
 import java.io.*;
 
 /**
- * @author 刘鑫
+ * @author 贼不走空
  * @description
  * @since 2019/11/19 9:55 下午
  */

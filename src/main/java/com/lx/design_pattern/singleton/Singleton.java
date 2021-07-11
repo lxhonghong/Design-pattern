@@ -1,7 +1,7 @@
 package com.lx.design_pattern.singleton;
 
 /**
- * @author 刘鑫
+ * @author 贼不走空
  * @description
  * @since 2019/11/18 10:17 下午
  */

@@ -1,7 +1,7 @@
 package com.lx.design_pattern.factorymethod;
 
 /**
- * @author 刘鑫
+ * @author 贼不走空
  * @description 多个工厂方法类
  * @since 2019/11/18 3:00 下午
  */
